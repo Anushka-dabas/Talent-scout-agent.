@@ -1,4 +1,4 @@
-# TalentScout Pro: Autonomous Recruitment Agent
+# TalentScout Pro: Recruitment Agent
 
 ### 1. Approach
 TalentScout Pro is an active sourcing partner designed to move beyond the limitations of traditional keyword-based ATS. The core approach is centered on **contextual auditing**. Instead of providing a static match score, the agent performs a deep analysis of candidate data against specific Job Descriptions (JDs) to identify "Actionable Friction." By explicitly highlighting skill gaps, the system provides recruiters with the immediate data points needed to make informed "Go/No-Go" decisions.
