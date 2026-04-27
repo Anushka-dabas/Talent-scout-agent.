@@ -20,3 +20,6 @@ The system is built as a modular, high-speed pipeline optimized for recruitment 
 ### 4. Key Innovations
 * **Anti-Bias Blind Mode:** A built-in anonymization toggle that strips personal identifiers from the AI’s context window to ensure merit-based scoring.
 * **Direct Gap Analysis:** Unlike traditional tools that focus only on "Who fits," TalentScout Pro focuses on "What is missing," providing the critical utility recruiters need to filter high-volume pipelines efficiently.
+
+
+url: https://talent-scout-agent-psdgs5fsyrt4n3qrcltnnk.streamlit.app/
